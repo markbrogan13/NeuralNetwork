@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3986482f-02c1-4681-be0e-f099b98bede9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1ZkYhaEGTyG9p7VahxEWXLwTmUd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/NeuralNetwork_NG+/lib" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\JetBrainsWorkspace\NeuralNetwork\NeuralNetwork_NG+\lib" />
+      <recent name="F:\JetBrainsWorkspace\NeuralNetwork\libraries" />
+      <recent name="F:\JetBrainsWorkspace\NeuralNetwork" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\JetBrainsWorkspace\NeuralNetwork\Test" />
+      <recent name="F:\JetBrainsWorkspace\NeuralNetwork\libraries" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3986482f-02c1-4681-be0e-f099b98bede9" name="Default Changelist" comment="" />
+      <created>1585384679059</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585384679059</updated>
+      <workItem from="1585384680691" duration="5233000" />
+      <workItem from="1585435356116" duration="611000" />
+      <workItem from="1585603231368" duration="18357000" />
+      <workItem from="1585647918921" duration="5306000" />
+      <workItem from="1585697048652" duration="3261000" />
+      <workItem from="1585757953663" duration="2270000" />
+      <workItem from="1586048332108" duration="619000" />
+      <workItem from="1586379595928" duration="882000" />
+      <workItem from="1586382997167" duration="699000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="520" y="456" key="FileChooserDialogImpl" timestamp="1585651125774">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="520" y="456" key="FileChooserDialogImpl/2560.-11.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1585651125774" />
+    <state x="469" y="618" key="Github.CreateGistDialog" timestamp="1586379743141">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="469" y="618" key="Github.CreateGistDialog/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1586379743141" />
+    <state x="242" y="343" key="SettingsEditor" timestamp="1585651130299">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="242" y="343" key="SettingsEditor/2560.-11.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1585651130299" />
+    <state x="3341" y="331" key="SettingsEditor/2560.-11.2560.1400/0.0.2560.1400@2560.-11.2560.1400" timestamp="1585384995592" />
+  </component>
+</project>
